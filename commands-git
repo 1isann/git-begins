@@ -14,3 +14,9 @@ git push origin main
 
 git pull origin main
     pull les fichiers modifier sur github sur son pc
+
+git branch <nom de la branche>
+    crée une branche
+
+git switch <nom de la branch>
+    switch sur la branche souhaitée
