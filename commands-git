@@ -1,0 +1,13 @@
+##### Commande pour push #####
+
+git clone *lien vers le repo*
+    clone le repo vers le pc
+
+git add .
+    "Préparer le commit"
+
+git commit -m "Message"
+    "Faire le commit"
+
+git push origin main
+    Envoie sur Github les fichiers/le commit
